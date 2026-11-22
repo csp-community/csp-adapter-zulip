@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier
+_commit: 7a6513e
+_src_path: https://github.com/python-project-templates/base.git
+add_docs: false
+add_extension: python
+add_wiki: true
+email: t.paine154@gmail.com
+github: csp-community
+project_description: CSP adapter for zulip
+project_name: csp adapter zulip
+python_version_primary: '3.11'
+team: the csp-adapter-zulip authors
